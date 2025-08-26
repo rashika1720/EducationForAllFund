@@ -58,17 +58,17 @@ Contract Id:ST379PACRT7VM6743ER6VFP0E6E9TN3VWV6A0GWY1.EducationForAllFundP
 ![alt text](EDUCATION.PNG)
 
 ### Mainnet Deployment
-- **Contract Address**: [To be added after deployment]
+- **Contract Address**: 
 - **Contract Name**: education-for-all-fund
-- **Deployer**: [To be added]
-- **Deployment Block**: [To be added]
-- **Deployment Date**: [To be added]
+- **Deployer**: 
+- **Deployment Block**: 
+- **Deployment Date**: 
 
 ### Testnet Deployment
-- **Contract Address**: [To be added after testnet deployment]
+- **Contract Address**: 
 - **Contract Name**: education-for-all-fund-testnet
 - **Network**: Stacks Testnet
-- **Explorer Link**: [To be added]
+- **Explorer Link**: 
 
 ### Contract Verification
 - **Source Code**: Verified and open source
@@ -100,10 +100,10 @@ Contract Id:ST379PACRT7VM6743ER6VFP0E6E9TN3VWV6A0GWY1.EducationForAllFundP
 
 ### Community
 
-- **Website**: [To be added]
-- **Documentation**: [To be added]
-- **Discord**: [To be added]
-- **Twitter**: [To be added]
+- **Website**:
+- **Documentation**: 
+- **Discord**: 
+- **Twitter**: 
 - **GitHub**: [Repository link]
 
 ---
