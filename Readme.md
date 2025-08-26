@@ -72,7 +72,7 @@ Contract Id:ST379PACRT7VM6743ER6VFP0E6E9TN3VWV6A0GWY1.EducationForAllFundP
 
 ### Contract Verification
 - **Source Code**: Verified and open source
-- **Audit Status**: [To be updated after security audit]
+- **Audit Status**: 
 - **License**: MIT License
 
 ---
@@ -104,7 +104,7 @@ Contract Id:ST379PACRT7VM6743ER6VFP0E6E9TN3VWV6A0GWY1.EducationForAllFundP
 - **Documentation**: 
 - **Discord**: 
 - **Twitter**: 
-- **GitHub**: [Repository link]
+- **GitHub**: 
 
 ---
 
