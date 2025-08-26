@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: EducationForAllFund
+            expected-sender: ST379PACRT7VM6743ER6VFP0E6E9TN3VWV6A0GWY1
+            cost: 49600
+            path: "contracts\\EducationForAllFund.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"
